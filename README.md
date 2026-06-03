@@ -1,10 +1,10 @@
-#**Objetivo General*
+# **Objetivo General*
 
 Desarrollar una página web que permita registrar, consultar y administrar
 los pagos realizados por los clientes de un servicio de internet,
 facilitando el control de ingresos y el seguimiento de pagos pendientes.
 
-#**Objetivos Específicos*
+# **Objetivos Específicos*
  
 - Registrar la información de los clientes.
 - Registrar los pagos realizados por cada cliente.
@@ -13,9 +13,9 @@ facilitando el control de ingresos y el seguimiento de pagos pendientes.
 - Generar reportes básicos de pagos.
 - Mantener la información organizada y segura.
 
-#**Requerimientos del Proyecto*
+# **Requerimientos del Proyecto*
 
-# **Requerimientos Funcionales**
+#**Requerimientos Funcionales**
 
 * Registrar clientes.
 * Editar información de clientes.
@@ -26,7 +26,7 @@ facilitando el control de ingresos y el seguimiento de pagos pendientes.
 * Mostrar clientes con adeudos.
 * Generar reportes de pagos.
 
-# **Requerimientos No Funcionales**
+#**Requerimientos No Funcionales**
 
 * Interfaz fácil de usar.
 * Acceso rápido a la información.
