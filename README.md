@@ -60,18 +60,86 @@ Descripción: Esta categoría representa la obtención de información resumida 
 * Disponibilidad de la información almacenada.
 
 #**Alcances del proyecto:**
-* Registrar,consultar,editar y eliminar clientes 
-* Generar compribantes de pago
-* Administrar horarios de atención y planes de servicio
-* Mostrar información organizada mediante una interfaz web amigable
+
+El proyecto consiste en desarrollar una aplicación web que permita administrar la información de los clientes de un proveedor de internet, así como registrar y controlar los pagos realizados por cada usuario.
+
+#**Gestión de Clientes:**
+
+* Registrar nuevos clientes en la base de datos.
+* Consultar la información de los clientes registrados.
+* Modificar datos personales de los clientes.
+* Eliminar registros de clientes cuando sea necesario.
+* Mantener un historial actualizado de cada cliente.
+  
+#**Gestión de Pagos:**
+
+* Registrar pagos realizados por los clientes.
+* Consultar el historial completo de pagos.
+* Registrar la fecha de pago y el monto correspondiente.
+* Identificar pagos pendientes o atrasados.
+* Actualizar información de pagos registrados.
+* Llevar un control cronológico de los pagos efectuados.
+
+#**Comprobantes y Reportes:**
+
+* Generar comprobantes de pago.
+* Imprimir comprobantes para los clientes.
+* Consultar reportes de ingresos por periodos.
+* Generar listados de clientes activos.
+* Generar reportes de clientes con pagos pendientes.
+* Facilitar la consulta de información administrativa.
+  
+#**Administración del Sistema:**
+
+* Controlar el acceso mediante inicio de sesión.
+* Permitir la administración de usuarios autorizados.
+* Proteger la información almacenada en la base de datos.
+* Mantener registros organizados y accesibles.
+* Facilitar la navegación mediante una interfaz amigable.
+* Beneficios Operativos
+* Reducir el uso de registros manuales.
+* Disminuir errores en el control de pagos.
+* Agilizar la búsqueda de información.
+* Mejorar el seguimiento de clientes.
+* Optimizar la gestión administrativa del servicio de internet.
 
 #**Limitaciones del proyecto:**
 
-- No procesará pagos en línea mediante tarjetas o bancos.
-- No realizará monitoreo de la red de internet.
-- Será utilizado únicamente para la administración y control interno de clientes y pagos.
+#**El sistema no incluirá:**
 
-## Roles y limitaciones del proyecto
+* Procesamiento de Pagos
+* No realizará cobros en línea mediante tarjetas bancarias.
+* No estará conectado a pasarelas de pago como PayPal o Mercado Pago.
+* No procesará transferencias bancarias automáticas.
+  
+#**Gestión Técnica de Internet:**
+
+* No monitoreará el estado de la red de internet.
+* No administrará routers o equipos de red.
+* No realizará diagnósticos de fallas en el servicio.
+* No controlará el ancho de banda de los clientes.
+  
+#**Comunicación Automatizada:**
+
+* No enviará mensajes automáticos por WhatsApp.
+* No enviará correos electrónicos automáticos de cobranza.
+* No realizará llamadas automáticas de recordatorio.
+  
+#**Alcance Administrativo:**
+
+* Será utilizado únicamente para el control interno del negocio.
+* No contará con acceso para los clientes finales.
+* No funcionará como plataforma de contratación de servicios.
+* No incluirá facturación electrónica oficial (SAT).
+  
+#**Aspectos Técnicos:**
+
+* Requiere conexión a internet o acceso a la red donde esté alojado.
+* Depende del correcto funcionamiento del servidor y la base de datos.
+* No contará inicialmente con aplicación móvil.
+* El sistema estará enfocado en pequeñas y medianas empresas proveedoras de internet.
+
+## Roles y responsabilidades del proyecto
 
 | Integrante | Rol | Responsabilidades |
 |------------|-----|-------------------|
