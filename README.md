@@ -73,9 +73,5 @@ Descripción: Esta categoría representa la obtención de información resumida 
 
   #**Roles y limitaciones del proyecto:**
 
-  | Integrante   | Rol                                        | Responsabilidades                                                                                                               |
-| ------------ | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| Dalia Flores González | Líder de Proyecto y Analista de Requisitos | Planificar el proyecto, coordinar actividades, documentar requisitos, dar seguimiento a avances y elaborar documentación.       |
-| Jesús Emmanuel Ramírez Bravo | Desarrollador y Tester                     | Diseñar y desarrollar el sistema, gestionar la base de datos, realizar pruebas, corregir errores y verificar el funcionamiento. |
- 
+
 
