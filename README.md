@@ -71,7 +71,11 @@ Descripción: Esta categoría representa la obtención de información resumida 
 - No realizará monitoreo de la red de internet.
 - Será utilizado únicamente para la administración y control interno de clientes y pagos.
 
-  #**Roles y limitaciones del proyecto:**
+## Roles y limitaciones del proyecto
 
+| Integrante | Rol | Responsabilidades |
+|------------|-----|-------------------|
+| Dalia Flores González | Líder de Proyecto y Analista de Requisitos | Planificar y coordinar el desarrollo del proyecto, recopilar y documentar los requisitos del sistema, organizar las actividades del equipo, supervisar el avance del proyecto, mantener la comunicación entre los integrantes y verificar que se cumplan los objetivos establecidos. |
+| Jesús Emmanuel Ramírez Bravo | Desarrollador y Tester | Diseñar y desarrollar el sistema web, implementar las funcionalidades requeridas, gestionar y mantener la base de datos, realizar pruebas de funcionamiento, corregir errores detectados, optimizar el rendimiento de la aplicación y apoyar en la documentación técnica del proyecto. |
 
 
