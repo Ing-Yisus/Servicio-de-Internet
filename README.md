@@ -72,6 +72,8 @@ Descripción: Esta categoría representa la obtención de información resumida 
 - Será utilizado únicamente para la administración y control interno de clientes y pagos.
 
   #**Roles y limitaciones del proyecto:**
+
+  
 | Integrante   | Rol                                        | Responsabilidades                                                                                                               |
 | ------------ | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
 | Dalia        | Líder de Proyecto y Analista de Requisitos | Planificar el proyecto, coordinar actividades, documentar requisitos, dar                                                                 | seguimiento a avances y elaborar documentación.       
