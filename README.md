@@ -59,8 +59,21 @@ Descripción: Esta categoría representa la obtención de información resumida 
 * Compatibilidad con navegadores modernos.
 * Disponibilidad de la información almacenada.
 
+#**Alcances del proyecto:**
+* Registrar,consultar,editar y eliminar clientes 
+* Generar compribantes de pago
+* Administrar horarios de atención y planes de servicio
+* Mostrar información organizada mediante una interfaz web amigable
+
 #**Limitaciones del proyecto:**
 
 - No procesará pagos en línea mediante tarjetas o bancos.
 - No realizará monitoreo de la red de internet.
 - Será utilizado únicamente para la administración y control interno de clientes y pagos.
+
+  #**Roles y limitaciones del proyecto:**
+| Integrante   | Rol                                        | Responsabilidades                                                                                                               |
+| ------------ | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| Dalia        | Líder de Proyecto y Analista de Requisitos | Planificar el proyecto, coordinar actividades, documentar requisitos, dar                                                                 | seguimiento a avances y elaborar documentación.       
+|Jesús Emmanuel| Desarrollador y Tester                     | Diseñar y desarrollar el sistema, gestionar la base de datos, realizar                                                                    |  pruebas, corregir errores y verificar el funcionamiento. 
+
